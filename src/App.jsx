@@ -1,7 +1,8 @@
-import './App.css';
-import Conkers from './Conker';
+import './App.css'
+import Conkers from './Conker'
 
 function App() {
+
   return (
     <div className="App">
       <Conkers />
@@ -9,4 +10,4 @@ function App() {
   );
 }
 
-export default App;
+export default App
